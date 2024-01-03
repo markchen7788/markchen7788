@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Skilled in DPDK, RDMA, and Protocol Stack Programming
 - ✨ Programming Language: C/C++, Python, Shell, Java
 - 🌱 I’m currently learning Cloud Computing and Virtualization
-- 📫 Most of my projects are put on (Gitee)[https://gitee.com/markchen7788/]
-- 😄 You can check my (CSDN Blogs)[https://blog.csdn.net/Markchen7788] to know more. 
+- 📫 Most of my projects are put on [Gitee](https://gitee.com/markchen7788/)
+- 😄 You can check my [CSDN Blogs](https://blog.csdn.net/Markchen7788) to know more. 
